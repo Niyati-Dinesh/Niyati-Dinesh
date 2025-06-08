@@ -33,7 +33,7 @@ Currently diving into **Flutter**, **React**, and **Cybersecurity**, while alway
 Feel free to reach out if you'd like to collaborate, brainstorm ideas, or just say hi!
 
 [![Instagram](https://img.shields.io/badge/@niyati_d_bhatt-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/niyati_d_bhatt)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niyati-dinesh-bhatt-74a989239/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niyati-dinesh-bhatt)  
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niyati2dinesh@gmail.com)
 
 ---
