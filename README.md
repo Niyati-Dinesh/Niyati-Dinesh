@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Niyati! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="30"/></h1>
 <p align="center">
-  🎓 Integrated MCA Student | 💻 Tech Explorer | ✨ Creative Thinker<br>
+  🎓 Integrated MCA Student | ✨ Skilled in Python, SQL, and Web Development | 💻 Exploring Full-Stack & Cybersecurity <br>
   Building digital experiences with a curious mind and a passion for clean code.
 </p>
 
@@ -10,7 +10,7 @@
 
 I'm **Niyati Dinesh Bhatt**, an aspiring software developer currently studying Integrated MCA at Amrita Vishwa Vidyapeetham. I’m passionate about combining creativity with functionality to craft impactful projects. From frontend design to backend logic, I enjoy exploring the full stack and learning something new every step of the way.
 
-Currently diving into **Flutter**, **React**, and **Arduino**, while always keeping an eye out for my next tech obsession.
+Currently diving into **Flutter**, **React**, and **Cybersecurity**, while always keeping an eye out for my next tech obsession.
 
 ---
 
@@ -38,14 +38,6 @@ Feel free to reach out if you'd like to collaborate, brainstorm ideas, or just s
 
 ---
 
-### ⚡ Quick Bits
-
-- 🎸 Learning guitar (barre chords are my current boss level)
-- 🎤 Lowkey singer with dreams louder than my mic settings
-- 🧠 Always down to debug—whether it’s code or life
-- 🎮 Gaming, designing, and occasionally daydreaming about side quests IRL
-
----
 
 <p align="center">
   Built with intention, curiosity, and way too many browser tabs open. 🌸
