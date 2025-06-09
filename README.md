@@ -9,7 +9,7 @@
 ### 💫 About Me
 
 I'm **Niyati Dinesh Bhatt**, an aspiring software developer currently studying Integrated MCA at Amrita Vishwa Vidyapeetham. I’m passionate about combining creativity with functionality to craft impactful projects. From frontend design to backend logic, I enjoy exploring the full stack and learning something new every step of the way.
-
+Self taught instrumentalist and singer.
 Currently diving into **Flutter**, **React**, and **Cybersecurity**, while always keeping an eye out for my next tech obsession.
 
 ---
@@ -37,8 +37,12 @@ Feel free to reach out if you'd like to collaborate, brainstorm ideas, or just s
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niyati2dinesh@gmail.com)
 
 ---
-
-
 <p align="center">
+🚧 Currently grinding NeetCode’s DSA roadmap one problem a day! <br>
+👉<a href="https://github.com/Niyati-Dinesh/Dsa-journey"> Check out my journey</a><br>
+</p>
+
+---
+ <p align="center">
   Built with intention, curiosity, and way too many browser tabs open. 🌸
 </p>
