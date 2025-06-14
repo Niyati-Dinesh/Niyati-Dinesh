@@ -36,11 +36,11 @@ Feel free to reach out if you'd like to collaborate, brainstorm ideas, or just s
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niyati-dinesh-bhatt)  
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niyati2dinesh@gmail.com)
 
----
+<!--
 <p align="center">
 🚧 Currently grinding NeetCode’s DSA roadmap one problem a day! <br>
 👉<a href="https://github.com/Niyati-Dinesh/Dsa-journey"> Check out my journey</a><br>
-</p>
+</p>-->
 
 ---
  <p align="center">
