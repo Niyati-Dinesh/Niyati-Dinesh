@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 
-Hey there! I'm **Niyati Dinesh Bhatt**, a developer who’s not just learning how to build—but learning how to *solve real problems with code.*
+Hey there! I'm **Niyati**, a developer who’s not just learning how to build—but learning how to *solve real problems with code.*
 
 Currently pursuing an Integrated MCA at **Amrita Vishwa Vidyapeetham**, I specialize in full-stack development, with a growing interest in secure coding and clean UI architecture. I build with intention, ship with focus, and learn obsessively.
 
