@@ -47,30 +47,6 @@ Currently pursuing an Integrated MCA at **Amrita Vishwa Vidyapeetham**, I specia
 
 ---
 
-### 📌 Highlight Projects
-
-#### 📓 iNotebook 
-<!--– [GitHub Repo](https://github.com/Niyati-Dinesh/iNotebook)-->
-> Full-stack cloud note-taking app with user authentication, token-based session handling, and secure CRUD operations.
-
-- Implemented login/signup using JWT, bcrypt, and localStorage
-- Responsive frontend with Tailwind CSS
-- Backend built with Express and MongoDB
-
-
-#### 📰 News Nation 
-<!-- – [GitHub Repo](https://github.com/Niyati-Dinesh/News-Nation)-->
-> A dynamic news platform that fetches and displays real-time headlines using the NewsAPI.
-
-- Built with **React** and **Bootstrap** for clean UI/UX
-- Integrated **NewsAPI** to fetch top headlines by category and country
-- Added loading spinners and infinite scroll for seamless user experience
-- Implemented search filters and category navigation (e.g., sports, tech, entertainment)
-- Mobile responsive 
-
-
----
-
 ### 🤝 Let’s Connect
 
 I love working with people who enjoy tech, share code, and build with purpose.
