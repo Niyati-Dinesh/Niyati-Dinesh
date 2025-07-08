@@ -1,61 +1,16 @@
-<h1 align="center">Hi, I'm Niyati 👋</h1>
-<p align="center">
-  Full-Stack Developer in Progress · Focused on React, Node.js & Secure Web Apps <br>
-  MCA Student @ Amrita | Currently building scalable, clean, and secure digital products.
-</p>
+### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
+
+I'm [**Niyati Dinesh Bhatt**](https://github.com/Niyati-Dinesh), a full-stack web developer and computer science student based in India.
+
+I'm currently pursuing an Integrated MCA at [**Amrita Vishwa Vidyapeetham**](https://www.amrita.edu/), with a strong focus on full-stack development, cybersecurity, and problem-solving.
+
+I’m building projects using the **MERN stack**, and currently working on **SnippetVault**, a developer-focused snippet manager. I’ve also completed certified tracks in Python, C, and cybersecurity, and I’m joining [**Infosys**](https://www.infosys.com/) as a Python Development Intern.
+
+I’m interested in backend development, web security, and building clean, scalable apps.
 
 ---
 
-### 🚀 About Me
+#### Let's connect
 
-Hey there! I'm **Niyati**, a developer who’s not just learning how to build—but learning how to *solve real problems with code.*
-
-Currently pursuing an Integrated MCA at **Amrita Vishwa Vidyapeetham**, I specialize in full-stack development, with a growing interest in secure coding and clean UI architecture. I build with intention, ship with focus, and learn obsessively.
-
-### ✅ What I’m Good At:
-- Crafting full-stack applications with **React, Node.js, Express, and MongoDB**
-- Writing clean, modular backend APIs
-- Building secure login systems (tokens, hashing, validation)
-- Responsive design with **Tailwind CSS**, **Bootstrap**
-<!--- Deploying projects on **Render**, **Netlify**, and **GitHub Pages**-->
-
----
-
-### 🛠️ Tech Stack
-
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)  
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)  
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)  
-
-**Frontend**  
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)  
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)  
-
-**Backend & DB**  
-![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=flat-square&logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)  
-
-**Tools**  
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
-
----
-
-### 🤝 Let’s Connect
-
-I love working with people who enjoy tech, share code, and build with purpose.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niyati-dinesh-bhatt)  
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niyati2dinesh@gmail.com)
-
----
-
-<p align="center">
-Built with late-night code sprints. 🚀
-</p>
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/niyati-dinesh-bhatt/)  
+[<img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://github.com/Niyati-Dinesh)
