@@ -8,9 +8,10 @@ I’m building projects using the **MERN stack**, and currently working on **Sni
 
 I’m interested in backend development, web security, and building clean, scalable apps.
 
+Outside of tech , I'm intrested playing Guitar, Keyboard, and Singing.
+
 ---
 
 #### Let's connect
 
-[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/niyati-dinesh-bhatt/)  
-[<img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://github.com/Niyati-Dinesh)
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/niyati-dinesh-bhatt/)  [<img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://github.com/Niyati-Dinesh)
